@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularproject';
+
+
+  ConvertRtfToHtml(RtfContent: any){
+    console.log('Entered Rtf Content:', RtfContent);
+
+  }
 }

@@ -315,6 +315,9 @@
     </a>
 </div>
 
+
+
+
 <div class="content" role="main">
 
   <!-- Highlight Card -->
@@ -370,6 +373,18 @@
       <span>Open products</span>
     </a>
 
+  </div>
+
+  <div>
+    <button id="RtfToHtml" (click)="ConvertRtfToHtml(rtfcontent.value)" class="md-button">Convert RTF - HTML</button>
+  </div>
+  <div style="display: flex;">
+    <div style="float: left;">
+      <textarea #rtfcontent name="rtfcontent" rows="4" cols="50"></textarea>
+    </div>
+    <div style="float: right;">
+      <textarea #htmlcontent name="htmlcontent" rows="4" cols="50"></textarea>
+    </div>
   </div>
 
   <!-- Next Steps -->
