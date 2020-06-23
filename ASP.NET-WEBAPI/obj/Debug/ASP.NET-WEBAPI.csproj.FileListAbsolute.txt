@@ -51,6 +51,8 @@ H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\roslyn\vbc.rsp
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\roslyn\VBCSCompiler.exe
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\roslyn\VBCSCompiler.exe.config
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\Antlr3.Runtime.dll
+H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\EntityFramework.dll
+H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\EntityFramework.SqlServer.dll
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\Microsoft.Web.Infrastructure.dll
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\Newtonsoft.Json.dll
@@ -65,6 +67,8 @@ H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\System.Web.WebPages.Deployment.dll
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\System.Web.WebPages.dll
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\System.Web.WebPages.Razor.dll
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\WebGrease.dll
+H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\EntityFramework.xml
+H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\EntityFramework.SqlServer.xml
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\Newtonsoft.Json.xml
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\System.Net.Http.Formatting.xml
 H:\ASPMVC-EF-ANGULAR\ASP.NET-WEBAPI\bin\System.Web.Helpers.xml
